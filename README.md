@@ -1,1 +1,1 @@
-# GreenSkillsProjec
+# GreenSkillsProject
